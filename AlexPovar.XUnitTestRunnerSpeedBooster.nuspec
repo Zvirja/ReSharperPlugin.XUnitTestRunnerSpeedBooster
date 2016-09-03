@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AlexPovar.XUnitTestRunnerSpeedBooster</id>
+    <title>XUnit test runner speed booster</title>
+    <description>A patch to the xunit assembly that heavily improves execution speed.</description>
+    <version>1.0.0.0</version>
+    <authors>Alex Povar</authors>
+    <projectUrl>https://github.com/Zvirja/ReSharperPlugin.XUnitTestRunnerSpeedBooster</projectUrl>
+    <licenseUrl>https://github.com/Zvirja/ReSharperPlugin.XUnitTestRunnerSpeedBooster/blob/develop/LICENSE</licenseUrl>
+    <copyright>Copyright &#x00A9; 2016 Alex Povar</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+      <dependency id="Wave" version="[6.0]" />
+    </dependencies>
+  </metadata>
+  <files>
+    <!-- Plugin -->
+    <file src="AlexPovar.XUnitTestRunnerSpeedBooster.dll" target="DotFiles" />
+  </files>
+</package>
