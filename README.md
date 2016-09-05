@@ -12,3 +12,7 @@ See applied changes in [this commit](https://github.com/Zvirja/xunit/commit/cb6e
 
 Wish has been already [reported to R# issue tracker] (https://youtrack.jetbrains.com/issue/RSRP-460644), but it could take time before this change is finaly released.
 
+## Installation
+
+Plugin was published to [ReSharper Plugins Gallery](https://resharper-plugins.jetbrains.com/packages/AlexPovar.XUnitTestRunnerSpeedBooster/). Use Extension Manager and find plugin by name.
+
