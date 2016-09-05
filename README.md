@@ -14,5 +14,5 @@ Wish has been already [reported to R# issue tracker] (https://youtrack.jetbrains
 
 ## Installation
 
-Plugin was published to [ReSharper Plugins Gallery](https://resharper-plugins.jetbrains.com/packages/AlexPovar.XUnitTestRunnerSpeedBooster/). Use Extension Manager and find plugin by name.
+Plugin was published to [ReSharper Gallery](https://resharper-plugins.jetbrains.com/packages/AlexPovar.XUnitTestRunnerSpeedBooster/). Use Extension Manager and find plugin by name.
 
