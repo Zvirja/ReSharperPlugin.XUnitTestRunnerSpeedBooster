@@ -10,7 +10,7 @@ The improvement in speed is achieved by applying fast cast check to `TestMessage
 
 See applied changes in [this commit](https://github.com/Zvirja/xunit/commit/cb6e65fd18c12125f42d3a0672dffc3229382daa).
 
-Wish has been already [reported to R# issue tracker] (https://youtrack.jetbrains.com/issue/RSRP-460644), but it could take time before this change is finaly released.
+Wish has been already [reported to R# issue tracker](https://youtrack.jetbrains.com/issue/RSRP-460644), but it could take time before this change is finaly released.
 
 ## Installation
 
