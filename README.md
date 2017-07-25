@@ -1,5 +1,9 @@
 # ReSharperPlugin.XUnitTestRunnerSpeedBooster
 
+# DISCONTINUED
+
+The fix for this issue has been already released by JetBrains team. I've just tested the latest R# 2017.1.3 and found that it the fix for the issue, so this plugin is not needed more.
+
 ## DISCLAIMER
 __If you see any anomalies in test execution after this extension installation, please delete the extension before investigation.__
 
